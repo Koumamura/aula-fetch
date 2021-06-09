@@ -1,0 +1,15 @@
+{
+  "name": "aula-fetch",
+  "version": "1.0.0",
+  "description": " aula de fetch api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Koumamura",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.1"
+  }
+}
